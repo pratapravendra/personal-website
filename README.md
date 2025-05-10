@@ -1,0 +1,5 @@
+🌐 Personal Portfolio
+This is a modern, responsive personal portfolio built using HTML, CSS, and JavaScript, designed to showcase projects, skills, and contact information. The site features smooth animations powered by GSAP and interactive 3D elements created with Spline, delivering a visually engaging experience. Fully optimized for both desktop and mobile devices, the portfolio reflects clean code practices and creative design. It's perfect for developers, designers, or creatives aiming to make a strong online impression.
+
+Live Demo: Site Under Construction
+Technologies: HTML · CSS · JavaScript · GSAP · Spline
