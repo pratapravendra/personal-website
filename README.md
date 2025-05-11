@@ -3,3 +3,7 @@ This is a modern, responsive personal portfolio built using HTML, CSS, and JavaS
 
 Live Demo: Site Under Construction
 Technologies: HTML · CSS · JavaScript · GSAP · Spline
+
+
+Add your customise logo and remove boring  vite+html title in index.html file .
+You can also add your svg file in assets folder and use it in index.html file.
