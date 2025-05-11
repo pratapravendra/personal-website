@@ -12,27 +12,27 @@ export const myProjects = [
     ],
     href: "",
     logo: "",
-    image: "/assets/projects/accessories.jpg",
+    image: "/assets/projects/tube mate.png",
     tags: [
       {
         id: 1,
-        name: "C#",
-        path: "/assets/logos/csharp.svg",
+        name: "MongoDB",
+        path: "/assets/logos/mongodb-logo-svgrepo-com.svg",
       },
       {
         id: 2,
-        name: ".Net",
-        path: "/assets/logos/dotnet.svg",
+        name: "ExpressJs",
+        path: "/assets/logos/express-svgrepo-com.svg",
       },
       {
         id: 3,
-        name: "Ef Core",
-        path: "/assets/logos/efcore.png",
+        name: "ReactJs",
+        path: "/assets/logos/react-svgrepo-com.svg",
       },
       {
         id: 4,
-        name: "TailwindCSS",
-        path: "/assets/logos/tailwindcss.svg",
+        name: "NodeJs",
+        path: "/assets/logos/node-js-svgrepo-com.svg",
       },
     ],
   },
@@ -49,7 +49,7 @@ export const myProjects = [
     ],
     href: "",
     logo: "",
-    image: "/assets/projects/auth-system.jpg",
+    image: "",
     tags: [
       {
         id: 1,
