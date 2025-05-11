@@ -7,3 +7,15 @@ Technologies: HTML · CSS · JavaScript · GSAP · Spline
 
 Add your customise logo and remove boring  vite+html title in index.html file .
 You can also add your svg file in assets folder and use it in index.html file.
+Do not oversize the project image it will create a problem of slow loading 
+
+
+To start the server , run the following command in your terminal:
+
+Download the project 
+Extract it or clone it from the repository 
+Open the project in your code editor
+Open the terminal in your code editor
+Run the following command to start the server
+
+npm run dev  👈👈👈👈 This command or copy it 
